@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GHDo1tDOk5JoSaZPHnSoDrKOqyFnY6yumclMvhralaW7x39Qfer8uvhCL0gmHbfrMOdNtJyP0Q5dEYSVNW4/Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\mslearn-dotnet-files\\files-module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
