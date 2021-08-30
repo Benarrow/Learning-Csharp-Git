@@ -1,3 +1,5 @@
+
+
 #### This is the learning record of C#, .NET, and git. 
 
 In the directories, the code has been modified to do some exercises for C#. 
@@ -5,6 +7,8 @@ In the directories, the code has been modified to do some exercises for C#.
 You can find the original code within the following tutorial:
 
 [用 C# 生成 .NET 应用程序 - Learn | Microsoft Docs](https://docs.microsoft.com/zh-cn/learn/paths/build-dotnet-applications-csharp/)
+
+[Git教程 - 廖雪峰的官方网站 (liaoxuefeng.com)](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 ---
 
@@ -25,7 +29,12 @@ You can find the original code within the following tutorial:
   # Install .NET 3.0.x and 2.1.x from official website
   # It seems that dotnet-try has not supported .NET 5.0, so I suggest uninstalling all the .NET 5.0+ versions. 
   # But be careful of your VS Projects that requires .NET 5.0+!
+  
+  dotnet try verify # Must be executed before dotnet try
+  dotnet try
   ```
+
+* Visit [dotnet/try-samples (github.com)](https://github.com/dotnet/try-samples) to get all the practice code for `dotnet-try`.
 
 ---
 
