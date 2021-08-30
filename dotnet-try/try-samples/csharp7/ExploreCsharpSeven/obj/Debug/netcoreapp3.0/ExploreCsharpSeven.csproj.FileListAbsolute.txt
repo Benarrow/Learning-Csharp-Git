@@ -1,0 +1,17 @@
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\ExploreCsharpSeven.exe
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\ExploreCsharpSeven.deps.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\ExploreCsharpSeven.runtimeconfig.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\ExploreCsharpSeven.runtimeconfig.dev.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\ExploreCsharpSeven.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\ExploreCsharpSeven.pdb
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\ExploreCsharpSeven.xml
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\System.CommandLine.DragonFruit.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\System.CommandLine.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\bin\Debug\netcoreapp3.0\System.CommandLine.Rendering.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\obj\Debug\netcoreapp3.0\ExploreCsharpSeven.csprojAssemblyReference.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\obj\Debug\netcoreapp3.0\ExploreCsharpSeven.AssemblyInfoInputs.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\obj\Debug\netcoreapp3.0\ExploreCsharpSeven.AssemblyInfo.cs
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\obj\Debug\netcoreapp3.0\ExploreCsharpSeven.csproj.CopyComplete
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\obj\Debug\netcoreapp3.0\ExploreCsharpSeven.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\obj\Debug\netcoreapp3.0\ExploreCsharpSeven.xml
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp7\ExploreCsharpSeven\obj\Debug\netcoreapp3.0\ExploreCsharpSeven.pdb

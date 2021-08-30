@@ -1,0 +1,17 @@
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\ExploreCsharpEight.exe
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\ExploreCsharpEight.deps.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\ExploreCsharpEight.runtimeconfig.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\ExploreCsharpEight.runtimeconfig.dev.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\ExploreCsharpEight.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\ExploreCsharpEight.pdb
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\ExploreCsharpEight.xml
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\System.CommandLine.DragonFruit.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\System.CommandLine.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\bin\Debug\netcoreapp3.0\System.CommandLine.Rendering.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\obj\Debug\netcoreapp3.0\ExploreCsharpEight.csprojAssemblyReference.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\obj\Debug\netcoreapp3.0\ExploreCsharpEight.AssemblyInfoInputs.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\obj\Debug\netcoreapp3.0\ExploreCsharpEight.AssemblyInfo.cs
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\obj\Debug\netcoreapp3.0\ExploreCsharpEight.csproj.CopyComplete
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\obj\Debug\netcoreapp3.0\ExploreCsharpEight.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\obj\Debug\netcoreapp3.0\ExploreCsharpEight.xml
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\csharp8\ExploreCsharpEight\obj\Debug\netcoreapp3.0\ExploreCsharpEight.pdb

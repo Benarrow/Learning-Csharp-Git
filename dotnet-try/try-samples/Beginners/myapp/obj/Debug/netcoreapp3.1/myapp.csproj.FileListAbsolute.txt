@@ -1,0 +1,17 @@
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\myapp.exe
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.dev.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\myapp.xml
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\System.CommandLine.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\System.CommandLine.DragonFruit.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\bin\Debug\netcoreapp3.1\System.CommandLine.Rendering.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\obj\Debug\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CopyComplete
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\obj\Debug\netcoreapp3.1\myapp.xml
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\Beginners\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
