@@ -5,17 +5,14 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ZPSTim\.nuget\packages\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ZPSTim\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.4.0</NuGetToolVersion>
   </PropertyGroup>
-  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\ZPSTim\.nuget\packages\" />
-  </ItemGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)system.commandline.dragonfruit\0.3.0-alpha.20309.1\build\netstandard2.0\System.CommandLine.DragonFruit.props" Condition="Exists('$(NuGetPackageRoot)system.commandline.dragonfruit\0.3.0-alpha.20309.1\build\netstandard2.0\System.CommandLine.DragonFruit.props')" />
+    <Import Project="$(NuGetPackageRoot)system.commandline.dragonfruit\0.3.0-alpha.20170.1\build\netstandard2.0\System.CommandLine.DragonFruit.props" Condition="Exists('$(NuGetPackageRoot)system.commandline.dragonfruit\0.3.0-alpha.20170.1\build\netstandard2.0\System.CommandLine.DragonFruit.props')" />
   </ImportGroup>
 </Project>

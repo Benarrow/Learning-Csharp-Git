@@ -11,11 +11,11 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-      "System.CommandLine/2.0.0-beta1.20359.2": {
+      "System.CommandLine/2.0.0-beta1.20170.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.4.1",
-          "system.memory": "4.5.4"
+          "system.memory": "4.5.3"
         },
         "compile": {
           "lib/netstandard2.0/System.CommandLine.dll": {}
@@ -24,11 +24,11 @@
           "lib/netstandard2.0/System.CommandLine.dll": {}
         }
       },
-      "System.CommandLine.DragonFruit/0.3.0-alpha.20309.1": {
+      "System.CommandLine.DragonFruit/0.3.0-alpha.20170.1": {
         "type": "package",
         "dependencies": {
-          "System.CommandLine": "2.0.0-beta1.20309.1",
-          "System.CommandLine.Rendering": "0.3.0-alpha.20309.1"
+          "System.CommandLine": "2.0.0-beta1.20170.1",
+          "System.CommandLine.Rendering": "0.3.0-alpha.20170.1"
         },
         "compile": {
           "lib/netstandard2.0/System.CommandLine.DragonFruit.dll": {}
@@ -41,10 +41,10 @@
           "build/netstandard2.0/System.CommandLine.DragonFruit.targets": {}
         }
       },
-      "System.CommandLine.Rendering/0.3.0-alpha.20309.1": {
+      "System.CommandLine.Rendering/0.3.0-alpha.20170.1": {
         "type": "package",
         "dependencies": {
-          "System.CommandLine": "2.0.0-beta1.20309.1"
+          "System.CommandLine": "2.0.0-beta1.20170.1"
         },
         "compile": {
           "lib/netstandard2.0/System.CommandLine.Rendering.dll": {}
@@ -53,7 +53,7 @@
           "lib/netstandard2.0/System.CommandLine.Rendering.dll": {}
         }
       },
-      "System.Memory/4.5.4": {
+      "System.Memory/4.5.3": {
         "type": "package",
         "compile": {
           "ref/netcoreapp2.1/_._": {}
@@ -130,24 +130,24 @@
         "version.txt"
       ]
     },
-    "System.CommandLine/2.0.0-beta1.20359.2": {
-      "sha512": "ctoDBePE7hT22WsoKDca6USGdfO/qnrYfU8Xi+HBm46vl91F8TbLARpfPT07eanwo3Ol8HsHqQ/n1DlbBDYovg==",
+    "System.CommandLine/2.0.0-beta1.20170.1": {
+      "sha512": "E9tT6tp2y8GtykzAQoAVGtDKePVrUnN4YGZg9WMIJ1x6cocq1qspsyIVgZrn038jDNK9wqEu36QGaRIesksa5Q==",
       "type": "package",
-      "path": "system.commandline/2.0.0-beta1.20359.2",
+      "path": "system.commandline/2.0.0-beta1.20170.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.0/System.CommandLine.dll",
         "lib/netstandard2.0/System.CommandLine.pdb",
-        "system.commandline.2.0.0-beta1.20359.2.nupkg.sha512",
+        "system.commandline.2.0.0-beta1.20170.1.nupkg.sha512",
         "system.commandline.nuspec"
       ]
     },
-    "System.CommandLine.DragonFruit/0.3.0-alpha.20309.1": {
-      "sha512": "HGQMYj9csjHTGwCTe+D/xOpovWtDYHaq18xzASwwOF/1h3JgzKeC3FzmgjTjB6oR8mcjtLS8B9DAFe0ThI4SDg==",
+    "System.CommandLine.DragonFruit/0.3.0-alpha.20170.1": {
+      "sha512": "KsHZm5bpcQr0MIk4C5TMtaZyAV3Fs2tRnnr709YHVBsBKjs196wzDQz8n4blAyhTY/YsvR7GkObJ7NCjvGsXbw==",
       "type": "package",
-      "path": "system.commandline.dragonfruit/0.3.0-alpha.20309.1",
+      "path": "system.commandline.dragonfruit/0.3.0-alpha.20170.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -156,42 +156,40 @@
         "build/netstandard2.0/System.CommandLine.DragonFruit.targets",
         "lib/netstandard2.0/System.CommandLine.DragonFruit.dll",
         "lib/netstandard2.0/System.CommandLine.DragonFruit.pdb",
-        "system.commandline.dragonfruit.0.3.0-alpha.20309.1.nupkg.sha512",
+        "system.commandline.dragonfruit.0.3.0-alpha.20170.1.nupkg.sha512",
         "system.commandline.dragonfruit.nuspec"
       ]
     },
-    "System.CommandLine.Rendering/0.3.0-alpha.20309.1": {
-      "sha512": "/50DcdQAlDaYiaAfhbLbW6DKZpCdzKC0kL3dAH3q23MnV4iwsM5c2CJ45Q7yYwL5a2pv/WfAv1qA+yNR+Dl6BQ==",
+    "System.CommandLine.Rendering/0.3.0-alpha.20170.1": {
+      "sha512": "J5qVptsF9IqSSaxgWoGz2kLPxfnKg/47E4ptPFHfn1yi87/bbn7s2loAz03wOh/H9BF6GB6KttEieeyqhdG7Yg==",
       "type": "package",
-      "path": "system.commandline.rendering/0.3.0-alpha.20309.1",
+      "path": "system.commandline.rendering/0.3.0-alpha.20170.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.0/System.CommandLine.Rendering.dll",
         "lib/netstandard2.0/System.CommandLine.Rendering.pdb",
-        "system.commandline.rendering.0.3.0-alpha.20309.1.nupkg.sha512",
+        "system.commandline.rendering.0.3.0-alpha.20170.1.nupkg.sha512",
         "system.commandline.rendering.nuspec"
       ]
     },
-    "System.Memory/4.5.4": {
-      "sha512": "1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
+    "System.Memory/4.5.3": {
+      "sha512": "3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
       "type": "package",
-      "path": "system.memory/4.5.4",
+      "path": "system.memory/4.5.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
-        "lib/net461/System.Memory.dll",
-        "lib/net461/System.Memory.xml",
         "lib/netcoreapp2.1/_._",
         "lib/netstandard1.1/System.Memory.dll",
         "lib/netstandard1.1/System.Memory.xml",
         "lib/netstandard2.0/System.Memory.dll",
         "lib/netstandard2.0/System.Memory.xml",
         "ref/netcoreapp2.1/_._",
-        "system.memory.4.5.4.nupkg.sha512",
+        "system.memory.4.5.3.nupkg.sha512",
         "system.memory.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -200,12 +198,13 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "System.CommandLine >= 2.0.0-beta1.20359.2",
-      "System.CommandLine.DragonFruit >= 0.3.0-alpha.20309.1"
+      "System.CommandLine >= 2.0.0-beta1.20170.1",
+      "System.CommandLine.DragonFruit >= 0.3.0-alpha.20170.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ZPSTim\\.nuget\\packages\\": {}
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -216,6 +215,9 @@
       "packagesPath": "C:\\Users\\ZPSTim\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\Snippets\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\Snippets\\NuGet.Config",
         "C:\\Users\\ZPSTim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,7 +235,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -245,15 +246,14 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.CommandLine": {
             "target": "Package",
-            "version": "[2.0.0-beta1.20359.2, )"
+            "version": "[2.0.0-beta1.20170.1, )"
           },
           "System.CommandLine.DragonFruit": {
             "target": "Package",
-            "version": "[0.3.0-alpha.20309.1, )"
+            "version": "[0.3.0-alpha.20170.1, )"
           }
         },
         "imports": [
@@ -266,22 +266,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.18, 3.1.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

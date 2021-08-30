@@ -8,6 +8,27 @@ You can find the original code within the following tutorial:
 
 ---
 
+2021.08.30
+
+* Issue: When I installed `dotnet-try` module and try to run `dotnet try demo`, I always found a red area at the output pane when I try to run a demo.
+
+* Solution:
+
+  ```bash
+  dotnet --version # Show the current .NET version used by VS
+  dotnet --info # Show all the .NET Framework and Runtime installed on the computer
+  
+  # Visit https://github.com/dotnet/cli-lab/releases to get the uninstall tool
+  # Find the guidelines on https://docs.microsoft.com/zh-cn/dotnet/core/additional-tools/uninstall-tool?tabs=windows#step-3---uninstall-net-sdks-and-runtimes
+  dotnet-core-uninstall remove <version> --sdk (--force) # Uninstall .NET
+  
+  # Install .NET 3.0.x and 2.1.x from official website
+  # It seems that dotnet-try has not supported .NET 5.0, so I suggest uninstalling all the .NET 5.0+ versions. 
+  # But be careful of your VS Projects that requires .NET 5.0+!
+  ```
+
+---
+
 2021.08.26
 
 ```bash
