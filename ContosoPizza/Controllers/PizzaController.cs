@@ -10,6 +10,7 @@ namespace ContosoPizza.Controllers
     [Route("[controller]")]
     public class PizzaController : ControllerBase
     {
+        // Constructor
         public PizzaController()
         {
         }
