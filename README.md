@@ -10,7 +10,7 @@ You can find the original code within the following tutorial:
 
 2021.08.30
 
-* Issue: When I installed `dotnet-try` module and try to run `dotnet try demo`, I always found a red area at the output pane when I try to run a demo.
+* Issue: When I installed `dotnet-try` module and ran `dotnet try demo`, I always found a red area at the output pane when I tried to run a demo.
 
 * Solution:
 
