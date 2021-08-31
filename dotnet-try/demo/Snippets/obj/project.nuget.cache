@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "obYjduWaUgojCfZLY1f8suH/oeCMoObfqkZP3dTjHeCxLe9f3vXIYAqwIHTlLnRtPd/RQQjL1oAVy4UNBr+eMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\demo\\Snippets\\Snippets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline\\2.0.0-beta1.20170.1\\system.commandline.2.0.0-beta1.20170.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.20170.1\\system.commandline.dragonfruit.0.3.0-alpha.20170.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.20170.1\\system.commandline.rendering.0.3.0-alpha.20170.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

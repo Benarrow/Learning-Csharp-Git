@@ -1,0 +1,13 @@
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.exe
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.deps.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.runtimeconfig.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.runtimeconfig.dev.json
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.pdb
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.csprojAssemblyReference.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.AssemblyInfo.cs
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.dll
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.pdb
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\MyDocProject\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.genruntimeconfig.cache

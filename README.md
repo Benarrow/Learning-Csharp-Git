@@ -12,6 +12,14 @@ You can find the original code within the following tutorial:
 
 ---
 
+2021.08.31
+
+To create a new project in Try.NET, we need to check whether you have written the right code fence with symbol ```. 
+
+Advice: directly type in this symbol instead of copying and pasting things from internet, or your ```dotnet try verify``` would fail to compile the code.
+
+---
+
 2021.08.30
 
 * Issue: When I installed `dotnet-try` module and ran `dotnet try demo`, I always found a red area at the output pane when I tried to run a demo.
