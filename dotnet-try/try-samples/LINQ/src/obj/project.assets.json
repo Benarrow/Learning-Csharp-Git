@@ -206,11 +206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\LINQ.csproj",
+      "projectUniqueName": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\LINQ.csproj",
       "projectName": "LINQ",
-      "projectPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\LINQ.csproj",
+      "projectPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\LINQ.csproj",
       "packagesPath": "C:\\Users\\ZPSTim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\obj\\",
+      "outputPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -273,7 +273,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.0.1, 3.0.1]"
+            "version": "[3.0.3, 3.0.3]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -289,7 +289,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
       }
     }
   }

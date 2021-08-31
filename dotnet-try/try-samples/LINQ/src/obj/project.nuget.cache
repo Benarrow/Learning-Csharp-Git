@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLmL3xZ7/fUnW/O0SNzMt4GAzxokr0bVaC+G1pZ/w++qQV2G5UTSZBUOVxPx8Ow1ul3J/ufhK6oEcbwRgKRlew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.19405.1\\system.commandline.dragonfruit.0.3.0-alpha.19405.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.experimental\\0.3.0-alpha.19405.1\\system.commandline.experimental.0.3.0-alpha.19405.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.19405.1\\system.commandline.rendering.0.3.0-alpha.19405.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

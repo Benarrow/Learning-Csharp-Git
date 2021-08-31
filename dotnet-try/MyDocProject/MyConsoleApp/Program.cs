@@ -6,7 +6,9 @@ namespace MyConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            #region say_hello
+            Console.WriteLine(new Cat().Say());
+            #endregion
         }
     }
 }
