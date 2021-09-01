@@ -11,7 +11,9 @@ C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\bi
 C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.csprojAssemblyReference.cache
 C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.AssemblyInfoInputs.cache
 C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.AssemblyInfo.cs
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.csproj.CoreCompileInputs.cache
 C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.csproj.CopyComplete
 C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.dll
 C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.xml
 C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.pdb
+C:\Users\ZPSTim\VSCodeProjects\C#\dotnet-try\try-samples\101-linq-samples\src\obj\Debug\netcoreapp3.0\Try101LinqSamples.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\LINQ.csproj": {}
+    "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\LINQ.csproj": {
+    "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\LINQ.csproj",
+        "projectUniqueName": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\LINQ.csproj",
         "projectName": "LINQ",
-        "projectPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\LINQ.csproj",
+        "projectPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\LINQ.csproj",
         "packagesPath": "C:\\Users\\ZPSTim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\linq\\src\\obj\\",
+        "outputPath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

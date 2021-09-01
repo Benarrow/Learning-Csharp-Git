@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Nx0iDGH5ebPVnd+CdIrujoqhK7MQKNb6lsrmyn1GZ3oxOv00SJMQEqJ7MAsiRrX03r8XJieSbkVRmuZefeU+xg==",
+  "dgSpecHash": "MzlZq5A/WfP+HkMmSH4Ahzfit7WUjziOvIePE01gcnH39+FxPbPV0CJf7dg/YfY/KuDCb8717nhG8iHfS53GCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\LINQ\\src\\LINQ.csproj",
+  "projectFilePath": "C:\\Users\\ZPSTim\\VSCodeProjects\\C#\\dotnet-try\\try-samples\\101-linq-samples\\src\\Try101LinqSamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
-    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.19405.1\\system.commandline.dragonfruit.0.3.0-alpha.19405.1.nupkg.sha512",
-    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.experimental\\0.3.0-alpha.19405.1\\system.commandline.experimental.0.3.0-alpha.19405.1.nupkg.sha512",
-    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.19405.1\\system.commandline.rendering.0.3.0-alpha.19405.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.19317.1\\system.commandline.dragonfruit.0.3.0-alpha.19317.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.experimental\\0.3.0-alpha.19317.1\\system.commandline.experimental.0.3.0-alpha.19317.1.nupkg.sha512",
+    "C:\\Users\\ZPSTim\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.19317.1\\system.commandline.rendering.0.3.0-alpha.19317.1.nupkg.sha512",
     "C:\\Users\\ZPSTim\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\ZPSTim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
